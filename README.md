@@ -34,7 +34,7 @@ ler dados espaciais, calcular áreas e visualizar mapas temáticos de forma clar
 - **Matplotlib**
 - **Shapely**
 
-📊 O que o Código Faz
+## 📊 O que o Código Faz
 
 - Lê um arquivo GeoJSON contendo os municípios do Brasil
 - Converte o sistema de coordenadas para permitir cálculo de área
@@ -42,12 +42,12 @@ ler dados espaciais, calcular áreas e visualizar mapas temáticos de forma clar
 - Exibe informações no terminal
 - Gera um mapa temático baseado na área territorial
 
-🗺️ Fonte dos Dados
+## 🗺️ Fonte dos Dados
 
 Os dados geográficos utilizados neste projeto são públicos e foram obtidos
 a partir de um repositório aberto com informações territoriais do Brasil em formato GeoJSON.
 
-🤝 Considerações Finais
+## 🤝 Considerações Finais
 
 Este projeto faz parte de um processo de aprendizado contínuo em Python aplicado ao geoprocessamento.
 A ideia é evoluí-lo gradualmente, adicionando novas análises e funcionalidades.
